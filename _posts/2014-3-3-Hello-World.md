@@ -3,6 +3,11 @@ layout: post
 title: You're up and running!
 published: true
 ---
+---
+layout: post
+title: ok 1st blog
+---
+
 Hi
 
 Thi is test 
